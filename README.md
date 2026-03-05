@@ -1,35 +1,50 @@
-📸 Instagram Clone — Feed
+# Welcome to your Expo app 👋
 
-Este projeto é um clone do Instagram, desenvolvido com foco inicial na implementação do Feed de publicações. O objetivo é recriar a experiência básica de visualização de posts, permitindo evoluir posteriormente para outras funcionalidades da plataforma.
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-🚀 Objetivo do Projeto
+## Get started
 
-O projeto tem como objetivo estudar e praticar conceitos de desenvolvimento web/mobile, incluindo:
+1. Install dependencies
 
-Estruturação de interfaces
+   ```bash
+   npm install
+   ```
 
-Consumo de APIs
+2. Start the app
 
-Gerenciamento de estado
+   ```bash
+   npx expo start
+   ```
 
-Componentização
+In the output, you'll find options to open the app in a
 
-Boas práticas de desenvolvimento
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-Nesta primeira etapa, o foco será apenas no Feed, que é a área principal onde os usuários visualizam publicações.
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-🧩 Funcionalidades (Fase 1 - Feed)
+## Get a fresh project
 
-📄 Listagem de posts no feed
+When you're ready, run:
 
-🖼️ Exibição de imagem do post
+```bash
+npm run reset-project
+```
 
-👤 Exibição de usuário que publicou
+This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-❤️ Botão de curtir
+## Learn more
 
-💬 Exibição de número de comentários
+To learn more about developing your project with Expo, look at the following resources:
 
-🕒 Exibição de data da publicação
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-🔄 Atualização dinâmica do feed
+## Join the community
+
+Join our community of developers creating universal apps.
+
+- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
